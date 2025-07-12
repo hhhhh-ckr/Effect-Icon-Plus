@@ -12,3 +12,27 @@
 <h3 align="center"> Request mod support from <a href="https://github.com/hhhhh-ckr/Effect-Icon-Plus/issues" target="_blank">here</a> </h3> </br> </br>
 
 <h1 align="center"> Thanks to <a href="https://www.planetminecraft.com/texture-pack/upgrade-effect-icon/" target="_blank">Upgrade Effect Icon</a> by <a href="https://www.planetminecraft.com/member/cherryrero/" target="_blank">CherryRero</a> </h1>
+
+<details>
+  <summary>
+    Context
+  </summary>
+    <p align="center"> <img src="CherryRero Permission.png" alt="CherryRero Permission Image"> </p>
+
+  GxCranky
+
+    Hello My Friend!
+    I was using your Upgrade Effect Icon texture pack with pleasure,
+    but when I saw that there were no updates for the new versions,
+    I updated it myself.
+    I added the new 1.20.5 effects,
+    and I plan to make visuals in the same format
+    for the effects provided by some mods.
+    Can I share it again on Modrint,
+    crediting your and your project's planet minecraft page appropriately?
+
+  CherryRero
+
+    Hello!
+    I'm all for it. There isn't much time to update packages, or not at all, so it's not bad
+</details>
